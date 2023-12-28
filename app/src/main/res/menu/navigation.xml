@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/track_page"
+        android:enabled="true"
+        android:icon="@drawable/music_note"
+        android:title="@string/p1" />
+    <item
+        android:id="@+id/album_page"
+        android:enabled="true"
+        android:icon="@drawable/album"
+        android:title="@string/p2" />
+    <item
+        android:id="@+id/artist_page"
+        android:enabled="true"
+        android:icon="@drawable/artist"
+        android:title="@string/p3" />
+    <item
+        android:id="@+id/playlist_page"
+        android:enabled="true"
+        android:icon="@drawable/playlist"
+        android:title="@string/p4" />
+
+    <item
+        android:id="@+id/settings_page"
+        android:enabled="true"
+        android:icon="@drawable/settings"
+        android:title="@string/p5" />
+
+</menu>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">mplayer-random</string>
+    <string name="p1">Tracks</string>
+    <string name="p2">Albums</string>
+    <string name="p3">Artists</string>
+    <string name="p4">Playlist</string>
+    <string name="p5">Settings</string>
+    <string name="track_title">Track Title</string>
+    <string name="track_description">Album Title | Artist</string>
+    <string name="artist">Artist</string>
+    <string name="albumTitle">AlbumTitle</string>
+
+</resources>
